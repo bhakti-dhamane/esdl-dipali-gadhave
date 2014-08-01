@@ -1,10 +1,13 @@
 #include<iostream>
 using namespace std;
 
-int main()
+void main()
 {
 
 cout<<"\n\t !!WELCOME!!";
-return 0;
+cout<<"cummins college of engineering";
+
+
 }
+
 

@@ -6,6 +6,7 @@ void main()
 
 cout<<"\n\t !!WELCOME!!";
 cout<<"cummins college of engineering";
+cout<<"\n\t hiiiii.....";
 
 
 }
